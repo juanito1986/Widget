@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RepositoryMvcApplication.Controllers.WidgetsController" Collapsed="true">
+    <Position X="3" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACARAACAAAAAAAAAAAEAAEACAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\WidgetsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RepositoryMvcApplication.Cache.IMultiplexer" Collapsed="true">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAABAAAQIEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Multiplexer\IMultiplexer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Repository.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAIAAAAAAAABAAAAAAAQAAAEAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Repository\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RepositoryMvcApplication.IMapping" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Mapping\IMapping.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
